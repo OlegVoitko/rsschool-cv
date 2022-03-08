@@ -18,7 +18,7 @@
 
 ## Skills:
 * HTML
-* CSS/SASS
+* CSS
 * JavaScript (Basic)
 * Git
 * VS Code, IntelliJ IDEA
